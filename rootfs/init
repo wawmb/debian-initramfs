@@ -1,0 +1,23 @@
+#!/bin/sh
+
+# 1. 日志重定向+极简日志函数（仅保留核心输出）
+exec 2>/dev/console
+log_info() { echo "$0[$$]: $*" >&2; }
+
+# 2. 极简挂载核心文件系统（去掉冗余判断/报错）
+log_info "Init ramfs: mount proc/sys/dev !"
+mount -t proc none /proc 2>/dev/null
+mount -t sysfs none /sys 2>/dev/null
+mount -t devtmpfs none /dev 2>/dev/null || mount -t tmpfs none /dev 2>/dev/null
+
+# 3. mdev 自动创建设备节点（仅保留核心执行）
+[ -x /sbin/mdev ] && {
+    log_info "Create device nodes via mdev !"
+    echo "/sbin/mdev" > /proc/sys/kernel/hotplug 2>/dev/null
+    /sbin/mdev -s 2>/dev/null
+}
+
+# 4. 启动交互 Shell（PID 1 运行，依赖内核默认终端绑定）
+log_info "Ramfs initialized successfully (DO NOT run 'exit' command) !"
+hostname $(cat /etc/hostname 2>/dev/null || echo debian-initramfs)
+exec /bin/bash

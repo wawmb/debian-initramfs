@@ -1,0 +1,35 @@
+
+Start-Date: 2026-03-16  09:25:33
+Commandline: apt install -y --reinstall util-linux
+Reinstall: util-linux:arm64 (2.38.1-5+deb12u3)
+End-Date: 2026-03-16  09:25:36
+
+Start-Date: 2026-03-16  09:26:54
+Commandline: apt install -y --reinstall util-linux
+Reinstall: util-linux:arm64 (2.38.1-5+deb12u3)
+End-Date: 2026-03-16  09:26:57
+
+Start-Date: 2026-03-16  09:28:10
+Commandline: apt install -y --reinstall util-linux
+Reinstall: util-linux:arm64 (2.38.1-5+deb12u3)
+End-Date: 2026-03-16  09:28:13
+
+Start-Date: 2026-03-16  09:28:42
+Commandline: apt install -y --reinstall util-linux
+Reinstall: util-linux:arm64 (2.38.1-5+deb12u3)
+End-Date: 2026-03-16  09:28:44
+
+Start-Date: 2026-03-16  09:32:13
+Commandline: apt install -y apt-file
+Install: libperl5.36:arm64 (5.36.0-7+deb12u3, automatic), libgdbm-compat4:arm64 (1.23-3, automatic), netbase:arm64 (6.4, automatic), perl:arm64 (5.36.0-7+deb12u3, automatic), apt-file:arm64 (3.3), libregexp-assemble-perl:arm64 (0.38-2, automatic), perl-modules-5.36:arm64 (5.36.0-7+deb12u3, automatic), libgdbm6:arm64 (1.23-3, automatic), libapt-pkg-perl:arm64 (0.1.40+b2, automatic)
+End-Date: 2026-03-16  09:32:19
+
+Start-Date: 2026-03-16  09:33:17
+Commandline: apt remove apt-file
+Remove: apt-file:arm64 (3.3)
+End-Date: 2026-03-16  09:33:18
+
+Start-Date: 2026-03-16  09:33:29
+Commandline: apt install -y fdisk
+Install: fdisk:arm64 (2.38.1-5+deb12u3), libfdisk1:arm64 (2.38.1-5+deb12u3, automatic)
+End-Date: 2026-03-16  09:33:30

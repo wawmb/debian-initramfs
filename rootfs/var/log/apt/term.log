@@ -1,0 +1,85 @@
+
+Log started: 2026-03-16  09:25:33
+Log ended: 2026-03-16  09:25:36
+
+Log started: 2026-03-16  09:26:54
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7448 files and directories currently installed.)
+Preparing to unpack .../util-linux_2.38.1-5+deb12u3_arm64.deb ...
+Unpacking util-linux (2.38.1-5+deb12u3) over (2.38.1-5+deb12u3) ...
+Setting up util-linux (2.38.1-5+deb12u3) ...
+Log ended: 2026-03-16  09:26:57
+
+Log started: 2026-03-16  09:28:10
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7448 files and directories currently installed.)
+Preparing to unpack .../util-linux_2.38.1-5+deb12u3_arm64.deb ...
+Unpacking util-linux (2.38.1-5+deb12u3) over (2.38.1-5+deb12u3) ...
+Setting up util-linux (2.38.1-5+deb12u3) ...
+Log ended: 2026-03-16  09:28:13
+
+Log started: 2026-03-16  09:28:42
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7448 files and directories currently installed.)
+Preparing to unpack .../util-linux_2.38.1-5+deb12u3_arm64.deb ...
+Unpacking util-linux (2.38.1-5+deb12u3) over (2.38.1-5+deb12u3) ...
+Setting up util-linux (2.38.1-5+deb12u3) ...
+Log ended: 2026-03-16  09:28:44
+
+Log started: 2026-03-16  09:32:13
+Selecting previously unselected package perl-modules-5.36.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 7448 files and directories currently installed.)
+Preparing to unpack .../0-perl-modules-5.36_5.36.0-7+deb12u3_all.deb ...
+Unpacking perl-modules-5.36 (5.36.0-7+deb12u3) ...
+Selecting previously unselected package libgdbm6:arm64.
+Preparing to unpack .../1-libgdbm6_1.23-3_arm64.deb ...
+Unpacking libgdbm6:arm64 (1.23-3) ...
+Selecting previously unselected package libgdbm-compat4:arm64.
+Preparing to unpack .../2-libgdbm-compat4_1.23-3_arm64.deb ...
+Unpacking libgdbm-compat4:arm64 (1.23-3) ...
+Selecting previously unselected package libperl5.36:arm64.
+Preparing to unpack .../3-libperl5.36_5.36.0-7+deb12u3_arm64.deb ...
+Unpacking libperl5.36:arm64 (5.36.0-7+deb12u3) ...
+Selecting previously unselected package perl.
+Preparing to unpack .../4-perl_5.36.0-7+deb12u3_arm64.deb ...
+Unpacking perl (5.36.0-7+deb12u3) ...
+Selecting previously unselected package netbase.
+Preparing to unpack .../5-netbase_6.4_all.deb ...
+Unpacking netbase (6.4) ...
+Selecting previously unselected package libapt-pkg-perl.
+Preparing to unpack .../6-libapt-pkg-perl_0.1.40+b2_arm64.deb ...
+Unpacking libapt-pkg-perl (0.1.40+b2) ...
+Selecting previously unselected package libregexp-assemble-perl.
+Preparing to unpack .../7-libregexp-assemble-perl_0.38-2_all.deb ...
+Unpacking libregexp-assemble-perl (0.38-2) ...
+Selecting previously unselected package apt-file.
+Preparing to unpack .../8-apt-file_3.3_all.deb ...
+Unpacking apt-file (3.3) ...
+Setting up perl-modules-5.36 (5.36.0-7+deb12u3) ...
+Setting up netbase (6.4) ...
+Setting up libgdbm6:arm64 (1.23-3) ...
+Setting up libgdbm-compat4:arm64 (1.23-3) ...
+Setting up libperl5.36:arm64 (5.36.0-7+deb12u3) ...
+Setting up perl (5.36.0-7+deb12u3) ...
+Setting up libregexp-assemble-perl (0.38-2) ...
+Setting up libapt-pkg-perl (0.1.40+b2) ...
+Setting up apt-file (3.3) ...
+The system-wide cache is empty. You may want to run 'apt-file update'
+as root to update the cache.
+Processing triggers for libc-bin (2.36-9+deb12u13) ...
+Log ended: 2026-03-16  09:32:19
+
+Log started: 2026-03-16  09:33:17
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 9545 files and directories currently installed.)
+Removing apt-file (3.3) ...
+Log ended: 2026-03-16  09:33:18
+
+Log started: 2026-03-16  09:33:29
+Selecting previously unselected package libfdisk1:arm64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 9531 files and directories currently installed.)
+Preparing to unpack .../libfdisk1_2.38.1-5+deb12u3_arm64.deb ...
+Unpacking libfdisk1:arm64 (2.38.1-5+deb12u3) ...
+Selecting previously unselected package fdisk.
+Preparing to unpack .../fdisk_2.38.1-5+deb12u3_arm64.deb ...
+Unpacking fdisk (2.38.1-5+deb12u3) ...
+Setting up libfdisk1:arm64 (2.38.1-5+deb12u3) ...
+Setting up fdisk (2.38.1-5+deb12u3) ...
+Processing triggers for libc-bin (2.36-9+deb12u13) ...
+Log ended: 2026-03-16  09:33:30
